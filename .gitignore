@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+
+# Virtual Environment
+.env
+.venv
+env/
+ENV/
+
+# Results
+responses/
+malicious_ips.txt
+not_found_ips.txt
+
+# Test files
+ips.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo 
